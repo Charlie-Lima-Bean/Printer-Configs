@@ -1,2 +1,2 @@
-find /home/pi/gcode/ -name *.gcode -type f -mmin +1440 -delete
+find /home/pi/gcode_files/ -name *.gcode -type f -mmin +1440 -delete
 
